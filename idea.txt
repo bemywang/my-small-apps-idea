@@ -3,3 +3,4 @@
 3. Audio Book iOS app
 4. Blog and DM feature web app
 5. AI model to detect handwriting
+6. Refactor Bisexual app to React app - client side render fully
