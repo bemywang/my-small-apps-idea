@@ -6,4 +6,4 @@
   + [English](https://github.com/bemywang/life-quote/tree/main/English) 
   + Chinese
 4. All rights reserved to the original films and TV shows.
-5. Spoiler Alert for each quote!!
+5. 🚨Spoiler Alert for each quote!!
