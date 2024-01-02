@@ -1,0 +1,3 @@
+2024 New Year Resolution:
+Through this year, I would use git to record the quote I see and the thought I reflect on.
+Please check the branch to find the topic you like.
