@@ -17,4 +17,4 @@
 
 Image source: from [IMDb](https://www.imdb.com/title/tt15289042/)
 
-![IMDb-image](https://images.app.goo.gl/YsKbWmSwWoiqBKtF7)
+![IMDb-image](https://m.media-amazon.com/images/M/MV5BNzU1NmE2YzUtZWM4MC00ZjI2LTg0YTktMjdjODgwNGFmYTgzXkEyXkFqcGdeQXVyNDgwNjA5MzI@._V1_.jpg)
